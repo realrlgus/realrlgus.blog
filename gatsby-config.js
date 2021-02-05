@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `리얼기거스의 블로그`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `리얼기거스`,
+      summary: `최고를 꿈꾸며 매일 노력하는 초보 개발자`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `매일매일 일상을 기록하는곳`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
-    },
+      github: `https://github.com/realrlgus`,
+    }
   },
   plugins: [
     {
